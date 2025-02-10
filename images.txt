@@ -17,4 +17,3 @@ szzhoubanxian/reseed-puppy:dev
 chisbread/transmission
 linuxserver/jackett
 soulteary/flare
-haishanh/yade
