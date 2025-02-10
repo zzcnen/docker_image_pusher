@@ -16,3 +16,4 @@ iyuucn/iyuuplus-dev
 szzhoubanxian/reseed-puppy:dev
 chisbread/transmission
 linuxserver/jackett
+soulteary/flare
