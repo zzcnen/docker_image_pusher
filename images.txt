@@ -18,3 +18,4 @@ chisbread/transmission
 linuxserver/jackett
 soulteary/flare
 haishanh/yacd
+mzz2017/v2raya
