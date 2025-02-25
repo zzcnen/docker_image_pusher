@@ -19,3 +19,4 @@ linuxserver/jackett
 soulteary/flare
 haishanh/yacd
 mzz2017/v2raya
+rfym21/qwen2api
