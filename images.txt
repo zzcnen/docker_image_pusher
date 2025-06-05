@@ -6,6 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/qbittorrent
 dreamacro/clash
+jxxghp/moviepilot-v2
 lsioarmhf/transmission
 iyuucn/iyuuplus
 linuxserver/transmission
