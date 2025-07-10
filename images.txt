@@ -27,3 +27,4 @@ ronggang/transmission-torrents-manager
 AttemptD/AfuseKt
 XIU2/CloudflareSpeedTest
 Putarku/MoviePilot
+eternalcurse/pt-accelerator
