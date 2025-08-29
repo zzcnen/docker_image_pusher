@@ -29,3 +29,4 @@ XIU2/CloudflareSpeedTest
 Putarku/MoviePilot
 eternalcurse/pt-accelerator
 nattertool/fakehttp
+ghcr.io/moontechlab/lunatv
