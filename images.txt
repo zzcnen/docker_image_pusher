@@ -21,12 +21,12 @@ soulteary/flare
 haishanh/yacd
 mzz2017/v2raya
 rfym21/qwen2api
-senshinya/MoonTV
+senshinya/moontv
 bjdbjd/publish-helper
 ronggang/transmission-torrents-manager
-AttemptD/AfuseKt
-XIU2/CloudflareSpeedTest
-Putarku/MoviePilot
+attemptd/afusekt
+xiu2/cloudflarespeedtest
+putarku/moviepilot
 eternalcurse/pt-accelerator
 nattertool/fakehttp
 ghcr.io/moontechlab/lunatv
