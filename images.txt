@@ -30,3 +30,4 @@ putarku/moviepilot
 eternalcurse/pt-accelerator
 nattertool/fakehttp
 ghcr.io/moontechlab/lunatv
+strainthomas/btdeck-backend
