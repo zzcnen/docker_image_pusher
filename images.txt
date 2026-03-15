@@ -21,7 +21,6 @@ soulteary/flare
 haishanh/yacd
 mzz2017/v2raya
 rfym21/qwen2api
-ronggang/transmission-torrents-manager
 attemptd/afusekt
 xiu2/cloudflarespeedtest
 putarku/moviepilot
